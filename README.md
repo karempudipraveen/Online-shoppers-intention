@@ -20,3 +20,4 @@ order date and delivery date. For example, for Valentina’s day, this value tak
 zero before and after this date unless it is close to another special day, and its maximum value of 1 on February 8. 
 The dataset also includes operating system, browser, region, traffic type, visitor type as returning or new visitor, 
 a Boolean value indicating whether the date of the visit is weekend, and month of the year.
+ 
